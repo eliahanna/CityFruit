@@ -2,7 +2,7 @@
 
 **Project Summary:** Through this project, a volunteer would analyze publicly available tree data from the City of Seattle (151,000+ trees with location data) and create a compelling, interactive visualization of fruit trees from that data set using Tableau Public. City Fruit would then review and evaluatesharing the visualization on its website so that community members can better understand and engage withSeattle’s urban fruit trees.
 
-**Why Now:** With April 2020 including the 50thanniversary of Earth Day (April 22nd) followed closely by Arbor Day (April 24th), we thought this would be a great time for a volunteer to create such a visualization for our communityand celebrate Seattle’s urban orchard.
+**Why Now:** With April 2020 including the 50th anniversary of Earth Day (April 22nd) followed closely by Arbor Day (April 24th), we thought this would be a great time for a volunteer to create such a visualization for our communityand celebrate Seattle’s urban orchard.
 
 ## ABOUT CITY FRUIT
 
