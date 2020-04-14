@@ -31,6 +31,6 @@ For this specific project, we would like volunteers to use publicly available tr
 ## OTHER GENERAL SEATTLE TREE DATA RESOURCES 
 
 * [Seattle Tree Inventory Map](http://www.seattle.gov/transportation/projects-andprograms/programs/trees-and-landscaping-program/seattle-tree-inventory-map)
-* [Trees for Seattle – Street Trees](http://seattlecitygis.maps.arcgis.com/apps/MapSeries/index.html?appid=a7072ffa326c4ef39a0f 031961ebace6)
+* [Trees for Seattle - Street Trees](http://seattlecitygis.maps.arcgis.com/apps/MapSeries/index.html?appid=a7072ffa326c4ef39a0f031961ebace6)
 * [Seattle’s Canopy Cover](http://www.seattle.gov/trees/management/canopy-cover)
 * [Seattle Tree Canopy 2016](http://data-seattlecitygis.opendata.arcgis.com/datasets/tree-canopy2016)
