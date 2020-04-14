@@ -6,7 +6,7 @@
 
 ## ABOUT CITY FRUIT
 
-[City Fruit](https:cityfruit.org/)
+[City Fruit](https://cityfruit.org/)
 
 **City Fruit’s Mission: City Fruit puts our urban orchard to its best and fullest use so that everyone inour community shares in the value of fruit.**
 
